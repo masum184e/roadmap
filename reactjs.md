@@ -120,4 +120,5 @@
 - `styled-components` or `tailwindcss` for styling
 - `socket.io-client` for real-time updates
 - `react-testing-library` for testing
+- React Component Without and With Webpack, Babel
 - [Awesome React Components](https://github.com/brillout/awesome-react-components)
