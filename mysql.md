@@ -8,21 +8,21 @@
 - Understanding MySQL client tools (e.g., CLI vs. GUI)
 
 ## 2. Basic Database Concepts
-- What are databases, tables, rows, and columns?
-- Understanding data types in MySQL:
-  - Numeric types (`INT`, `FLOAT`, `DECIMAL`, etc.)
-  - String types (`VARCHAR`, `TEXT`, `CHAR`, etc.)
-  - Date and time types (`DATE`, `DATETIME`, `TIMESTAMP`, etc.)
+- [What are databases, tables, rows, and columns?](#)
+- [Understanding data types in MySQL:](#)
+  - [Numeric types (`INT`, `FLOAT`, `DECIMAL`, etc.)](#)
+  - [String types (`VARCHAR`, `TEXT`, `CHAR`, etc.)](#)
+  - [Date and time types (`DATE`, `DATETIME`, `TIMESTAMP`, etc.)](#)
 - Primary keys, foreign keys, and indexes
 - Normalization and database design basics
 
 ## 3. MySQL Queries
-- Writing basic SQL statements
-  - `SELECT`, `INSERT`, `UPDATE`, `DELETE`
-- Using `WHERE` clause for filtering
-- Sorting results with `ORDER BY`
-- Limiting results with `LIMIT`
-- Using aliases for readability
+- [Writing basic SQL statements](#)
+  - [`SELECT`, `INSERT`, `UPDATE`, `DELETE`](#)
+- [Using `WHERE` clause for filtering](#)
+- [Sorting results with `ORDER BY`](#)
+- [Limiting results with `LIMIT`](#)
+- [Using aliases for readability](#)
 
 ## 4. Working with Tables
 - Creating tables (`CREATE TABLE`)
