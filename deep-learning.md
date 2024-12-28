@@ -1,10 +1,10 @@
 # Deep Learning Learning Topics
 
 ## 1. Introduction to Deep Learning
-- What is deep learning?
-- Differences between machine learning and deep learning
-- Applications of deep learning
-- Overview of deep learning frameworks (TensorFlow, PyTorch, Keras)
+- [What is deep learning?](#)
+- [Differences between machine learning and deep learning](#)
+- [Applications of deep learning](#)
+- [Overview of deep learning frameworks (TensorFlow, PyTorch, Keras)](#)
 
 ## 2. Mathematics for Deep Learning
 - Linear algebra: vectors, matrices, and tensor operations
