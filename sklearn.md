@@ -1,13 +1,13 @@
 # Scikit-learn Learning Topics
 
 ## 1. Introduction to Scikit-learn
-- Overview of Scikit-learn
-- Installation and setup
-- Key features and API structure
+- [Overview of Scikit-learn](#)
+- [Installation and setup](#)
+- [Key features and API structure](#)
 
 ## 2. Data Preparation
-- Loading datasets (e.g., `load_iris`, `load_digits`)
-- Working with custom datasets
+- [Loading datasets (e.g., `load_iris`, `load_digits`)](#)
+- [Working with custom datasets](#)
 - Handling missing values (`SimpleImputer`)
 - Scaling and normalization (`StandardScaler`, `MinMaxScaler`)
 - Encoding categorical variables (`OneHotEncoder`, `LabelEncoder`)
