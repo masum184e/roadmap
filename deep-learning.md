@@ -1,6 +1,6 @@
 # Deep Learning Learning Topics
 
-## 1. Introduction to Deep Learning
+## [1. Introduction to Deep Learning](#)
 - [What is deep learning?](#)
 - [Differences between machine learning and deep learning](#)
 - [Applications of deep learning](#)
@@ -10,43 +10,43 @@
 - Linear algebra: vectors, matrices, and tensor operations
 - Calculus: derivatives, gradients, and optimization
 - Probability and statistics: distributions, expectation, and variance
-- Understanding gradient descent and backpropagation
+- [Understanding gradient descent and backpropagation](#)
 
 ## 3. Neural Network Basics
-- Perceptrons and multi-layer perceptrons (MLPs)
-- Activation functions (ReLU, sigmoid, tanh, softmax)
-- Loss functions (MSE, cross-entropy)
+- [Perceptrons and multi-layer perceptrons (MLPs)](#)
+- [Activation functions (ReLU, sigmoid, tanh, softmax)](#)
+- [Loss functions (MSE, cross-entropy)](#)
 - Weight initialization techniques
 - Overfitting and underfitting
 
 ## 4. Deep Learning Models
 - Feedforward neural networks (FNNs)
-- Convolutional neural networks (CNNs)
-- Recurrent neural networks (RNNs)
+- [Convolutional neural networks (CNNs)](#)
+- [Recurrent neural networks (RNNs)](#)
 - Generative models (GANs, VAEs)
 - Transformers and attention mechanisms
 
 ## 5. Training Deep Neural Networks
-- Data preprocessing and augmentation
-- Batch normalization
-- Dropout and regularization techniques
-- Optimizers (SGD, Adam, RMSprop)
+- [Data preprocessing and augmentation](#)
+- [Batch normalization](#)
+- [Dropout and regularization techniques](#)
+- [Optimizers (SGD, Adam, RMSprop)](#)
 - Learning rate scheduling
 
-## 6. Convolutional Neural Networks (CNNs)
-- Convolution and pooling operations
-- Architecture of popular CNNs (e.g., VGG, ResNet, Inception)
-- Applications in image classification, object detection, and segmentation
+## [6. Convolutional Neural Networks (CNNs)](#)
+- [Convolution and pooling operations](#)
+- [Architecture of popular CNNs (e.g., VGG, ResNet, Inception)](#)
+- [Applications in image classification, object detection, and segmentation](#)
 
-## 7. Recurrent Neural Networks (RNNs)
-- Sequence modeling and time series
-- LSTM and GRU architectures
-- Applications in NLP and speech recognition
-- Attention mechanisms
+## [7. Recurrent Neural Networks (RNNs)](#)
+- [Sequence modeling and time series](#)
+- [LSTM and GRU architectures](#)
+- [Applications in NLP and speech recognition](#)
+- [Attention mechanisms](#)
 
 ## 8. Natural Language Processing (NLP)
-- Text preprocessing (tokenization, stemming, lemmatization)
-- Word embeddings (Word2Vec, GloVe, FastText)
+- [Text preprocessing (tokenization, stemming, lemmatization)](#)
+- [Word embeddings (Word2Vec, GloVe, FastText)](#)
 - Sequence-to-sequence models
 - Transformer-based models (e.g., BERT, GPT)
 

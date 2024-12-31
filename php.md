@@ -8,10 +8,10 @@
 - Constants and magic constants
 - PHP comments and best practices
 
-## 2. Control Structures
-- Conditional statements (`if`, `else`, `elseif`, `switch`)
-- Loops (`for`, `while`, `do-while`, `foreach`)
-- Break and continue
+## [2. Control Structures](#)
+- [Conditional statements (`if`, `else`, `elseif`, `switch`)](#)
+- [Loops (`for`, `while`, `do-while`, `foreach`)](#)
+- [Break and continue](#)
 
 ## 3. Functions
 - Defining and calling functions

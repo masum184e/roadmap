@@ -1,21 +1,21 @@
 # TensorFlow Learning Topics
 
 ## 1. Introduction to TensorFlow
-- Overview of TensorFlow
-- Installation and setup
-- TensorFlow workflow and structure
+- [Overview of TensorFlow](#)
+- [Installation and setup](#)
+- [TensorFlow workflow and structure](#)
 
 ## 2. TensorFlow Basics
-- Tensors and operations
-- Variables and constants
+- [Tensors and operations](#)
+- [Variables and constants](#)
 - TensorFlow sessions and eager execution
-- Data types and shapes
+- [Data types and shapes](#)
 
 ## 3. Data Handling
-- Input pipelines using `tf.data`
+- [Input pipelines using `tf.data`](#)
 - Loading and preprocessing data
-- Data augmentation techniques
-- Working with datasets (e.g., TFRecord)
+- [Data augmentation techniques](#)
+- [Working with datasets (e.g., TFRecord)](#)
 
 ## 4. TensorFlow Core API
 - Mathematical operations
@@ -30,21 +30,21 @@
 - Clustering (e.g., K-means)
 
 ## 6. Deep Learning Basics
-- Building neural networks with Keras
-- Activation functions
-- Loss functions
-- Optimizers
-- Model evaluation metrics
+- [Building neural networks with Keras](#)
+- [Activation functions](#)
+- [Loss functions](#)
+- [Optimizers](#)
+- [Model evaluation metrics](#)
 
 ## 7. Convolutional Neural Networks (CNNs)
-- Convolution and pooling layers
-- Transfer learning
-- Pretrained models (e.g., VGG, ResNet)
-- Image classification
+- [Convolution and pooling layers](#)
+- [Transfer learning](#)
+- [Pretrained models (e.g., VGG, ResNet)](#)
+- [Image classification](#)
 
 ## 8. Recurrent Neural Networks (RNNs)
-- Sequence models
-- LSTM and GRU cells
+- [Sequence models](#)
+- [LSTM and GRU cells](#)
 - Applications in time series and NLP
 - Attention mechanisms
 
@@ -55,7 +55,7 @@
 - Transformers in TensorFlow
 
 ## 10. Model Deployment
-- Saving and loading models
+- [Saving and loading models](#)
 - TensorFlow Lite for mobile and edge devices
 - TensorFlow Serving for production
 - Using TensorFlow.js for web
