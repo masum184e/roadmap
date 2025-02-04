@@ -77,18 +77,18 @@
 - Validating and sanitizing user input
 - Securing file uploads
 
-## 13. RESTful APIs with PHP
-- Understanding REST principles
-- Creating RESTful APIs using PHP
-- Handling JSON data with `json_encode` and `json_decode`
-- Authenticating APIs with JWT or API keys
+## [13. RESTful APIs with PHP](#)
+- [Understanding REST principles](#)
+- [Creating RESTful APIs using PHP](#)
+- [Handling JSON data with `json_encode` and `json_decode`](#)
+- [Authenticating APIs with JWT or API keys](#)
 
-## 14. PHP Frameworks (Optional)
-- Introduction to PHP frameworks (e.g., Laravel, CodeIgniter, Symfony)
-- Setting up a project with Laravel
-- Understanding MVC architecture
-- Routing, controllers, and views in frameworks
-- Using ORM (Eloquent) for database management
+## [14. PHP Frameworks (Optional)](#)
+- [Introduction to PHP frameworks (e.g., Laravel, CodeIgniter, Symfony)](#)
+- [Setting up a project with Laravel](#)
+- [Understanding MVC architecture](#)
+- [Routing, controllers, and views in frameworks](#)
+- [Using ORM (Eloquent) for database management](#)
 
 ## 15. Advanced PHP Concepts
 - Working with Composer for dependency management
