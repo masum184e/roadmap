@@ -1,10 +1,10 @@
 # Topics to Learn in R
 
-## 1. Basics of R
-- Installing R and RStudio
-- R syntax and data types
-- Variables and constants
-- Operators (arithmetic, relational, logical)
+## [1. Basics of R](#)
+- [Installing R and RStudio](#)
+- [R syntax and data types](#)
+- [Variables and constants](#)
+- [Operators (arithmetic, relational, logical)](#)
 
 ## 2. Data Structures in R
 - Vectors
