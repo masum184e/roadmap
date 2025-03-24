@@ -67,13 +67,13 @@
 - Pre-push hooks
 - Custom hooks
 
-## 10. **Collaboration & Pull Requests**
+## [10. **Collaboration & Pull Requests**](#)
 
 - [Forking and cloning repositories](#)
 - [Creating pull requests (PRs)](#)
 - [Reviewing PRs](#)
 - [Resolving conflicts in PRs](#)
-- Squashing commits in PRs
+- [Squashing commits in PRs](#)
 
 ## 11. **Git Internals**
 
