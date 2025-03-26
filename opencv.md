@@ -15,8 +15,8 @@
 
 - Accessing and Modifying Pixel Values
 - Image Resizing and Scaling
-- Cropping and Rotating Images
-- Drawing Shapes and Text on Images
+- [Cropping and Rotating Images](#)
+- [Drawing Shapes and Text on Images](#)
 
 ## Image Processing Techniques
 
@@ -79,7 +79,7 @@
   - KNN, SVM, and Decision Trees
   - Face Recognition using LBPH
 
-## Working with Videos
+## [Working with Videos](#)
 
 - [Capturing and Displaying Videos](#)
 - [Video File Operations (Read, Write)](#)
