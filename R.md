@@ -24,14 +24,14 @@
 ## 4. Data Manipulation
 
 - [Subsetting data](#)
-- Applying functions (apply, lapply, sapply, tapply)
+- [Applying functions (apply, lapply, sapply, tapply)](#)
 - Data transformation with `dplyr` and `tidyr`
 - String manipulation with `stringr`
 
 ## 5. Data Visualization
 
 - [Base R plotting system](#)
-- ggplot2 for advanced visualization
+- [ggplot2 for advanced visualization](#)
 - Plot customization (themes, labels, legends)
 - Interactive visualizations with `shiny` and `plotly`
 
@@ -42,12 +42,12 @@
 - Regression analysis (linear and logistic)
 - Hypothesis testing
 
-## 7. Programming in R
+## [7. Programming in R](#)
 
-- Control structures (if-else, for, while)
-- Writing functions
-- Debugging and error handling
-- Using `apply` family functions and loops
+- [Control structures (if-else, for, while)](#)
+- [Writing functions](#)
+- [Debugging and error handling](#)
+- [Using `apply` family functions and loops](#)
 
 ## 8. Advanced Data Analysis
 
