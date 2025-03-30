@@ -21,44 +21,44 @@
 - [Using `getServerSideProps` to fetch data on the server](#)
 - [Benefits and trade-offs of SSR](#)
 
-## 4. Static Site Generation (SSG)
+## [4. Static Site Generation (SSG)](#)
 
-- Generating static pages with `getStaticProps`
-- Dynamic static pages with `getStaticPaths`
-- Incremental Static Regeneration (ISR)
+- [Generating static pages with `getStaticProps`](#)
+- [Dynamic static pages with `getStaticPaths`](#)
+- [Incremental Static Regeneration (ISR)](#)
 
-## 5. Client-Side Rendering (CSR)
+## [5. Client-Side Rendering (CSR)](#)
 
-- When and how to use CSR in Next.js
-- Fetching data on the client side using hooks (`useEffect`, `useState`)
-- Combining CSR with other rendering methods
+- [When and how to use CSR in Next.js](#)
+- [Fetching data on the client side using hooks (`useEffect`, `useState`)](#)
+- [Combining CSR with other rendering methods](#)
 
-## 6. Data Fetching
+## [6. Data Fetching](#)
 
-- Using `getServerSideProps` for server-side data fetching
-- Using `getStaticProps` and `getStaticPaths` for static data fetching
-- Fetching data with external APIs or databases
-- Using `SWR` or `React Query` for client-side data fetching and caching
+- [Using `getServerSideProps` for server-side data fetching](#)
+- [Using `getStaticProps` and `getStaticPaths` for static data fetching](#)
+- [Fetching data with external APIs or databases](#)
+- [Using `SWR` or `React Query` for client-side data fetching and caching](#)
 
-## 7. API Routes
+## [7. API Routes](#)
 
-- Creating custom backend endpoints in the `pages/api/` directory
-- Handling HTTP methods (`GET`, `POST`, `PUT`, `DELETE`)
-- Connecting API routes to a database (e.g., MongoDB, PostgreSQL)
-- Securing API routes (e.g., with authentication)
+- [Creating custom backend endpoints in the `pages/api/` directory](#)
+- [Handling HTTP methods (`GET`, `POST`, `PUT`, `DELETE`)](#)
+- [Connecting API routes to a database (e.g., MongoDB, PostgreSQL)](#)
+- [Securing API routes (e.g., with authentication)](#)
 
-## 8. Middleware
+## [8. Middleware](#)
 
-- Introduction to Next.js Middleware
-- Writing and using middleware for custom logic
-- Middleware for authentication, logging, or redirection
-- Understanding `next.config.js` for middleware configuration
+- [Introduction to Next.js Middleware](#)
+- [Writing and using middleware for custom logic](#)
+- [Middleware for authentication, logging, or redirection](#)
+- [Understanding `next.config.js` for middleware configuration](#)
 
-## 9. Styling in Next.js
+## [9. Styling in Next.js](#)
 
-- CSS Modules for scoped styles
-- Using global styles in `pages/_app.js`
-- Tailwind CSS integration
+- [CSS Modules for scoped styles](#)
+- [Using global styles in `pages/_app.js`](#)
+- [Tailwind CSS integration](#)
 - Styled-components or Emotion for CSS-in-JS
 - Best practices for styling in a full-stack app
 
