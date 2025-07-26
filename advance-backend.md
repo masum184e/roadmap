@@ -7,7 +7,7 @@
 - **OpenAPI/Swagger:** Auto-generated documentation and client/server SDKs
 - **Rate Limiting, Throttling:** Protect API from abuse and ensure fair usage
 - **Postman:** Test APIs easily
-
+- **Prisma:** Type-safe and auto-generated SQL queries for PostgreSQL, MySQL, etc.
 ## 2. Databases
 
 - **PostgreSQL:** Advanced RDBMS; used for structured data, complex queries
