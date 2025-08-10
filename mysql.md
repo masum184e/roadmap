@@ -31,19 +31,19 @@
 - Adding and removing constraints (e.g., primary keys, foreign keys)
 
 ## 5. Advanced SQL Queries
-- Aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
-- Grouping data with `GROUP BY`
-- Filtering groups with `HAVING`
-- Joining tables:
-  - Inner joins
-  - Left joins
-  - Right joins
-  - Full outer joins
+- [Aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)](#)
+- [Grouping data with `GROUP BY`](#)
+- [Filtering groups with `HAVING`](#)
+- [Joining tables:](#)
+  - [Inner joins](#)
+  - [Left joins](#)
+  - [Right joins](#)
+  - [Full outer joins](#)
 - Subqueries and nested queries
 - Using `UNION` and `INTERSECT`
 
 ## 6. Indexes and Performance
-- What are indexes and how do they work?
+- [What are indexes and how do they work?](#)
 - Creating and using indexes
 - Understanding the impact of indexes on performance
 - Using `EXPLAIN` to analyze query performance
