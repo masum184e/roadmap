@@ -47,11 +47,14 @@
 - Reading and writing files (`fs.readFile`, `fs.writeFile`)
 - Working with file streams for large files
 - Handling file uploads (e.g., `multer`)
+- File streaming and downloads
 
 ## 9. Working with Databases
 - Connecting to MongoDB using the native MongoDB driver or Mongoose
 - Performing CRUD operations
 - Handling database connections and errors
+- Structuring models and controllers
+- Querying the database in route handlers
 
 ## 10. Authentication and Authorization
 - Implementing token-based authentication with JWT
@@ -78,7 +81,8 @@
 - Writing tests with frameworks like `Mocha`, `Jest`, or `Chai`
 - Mocking and stubbing with `Sinon.js`
 - Debugging using Node.js debugger or VS Code
-- Writing end-to-end tests for APIs with `Supertest`
+- API testing with tools like `Postman` or `Supertest`
+- Debugging with built-in Node.js tools or `debug` middleware
 
 ## 15. Node.js Deployment
 - Preparing Node.js apps for production
@@ -96,8 +100,9 @@
 ## 17. Integration with MERN Stack
 - Connecting Node.js backend to MongoDB (with Mongoose)
 - Designing RESTful APIs for React frontend
-- Handling CORS for cross-origin requests
+- Handling CORS for React-Express communication
 - Proxying requests from React to Node.js in development
+- Building and serving React frontend with Express
 
 ## Tools and Libraries to Explore
 - `dotenv` for environment variables
@@ -108,3 +113,5 @@
 - `socket.io` for real-time communication
 - `express` for web frameworks
 - `mongoose` for MongoDB integration
+- `dotenv` for environment variables
+- `helmet` for security
