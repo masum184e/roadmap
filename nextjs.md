@@ -119,8 +119,8 @@
 - [Custom error pages](#)
 - [Using error boundaries for React components](#)
 
-## 19. Integrating with Frontend and Backend](#)
+## [19. Integrating with Frontend and Backend](#)
 
 - [Combining Next.js frontend with a separate backend](#)
 - [Creating a full-stack Next.js app with integrated APIs](#)
-- Proxying API requests during development](#)
+- [Proxying API requests during development](#)
