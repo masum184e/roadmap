@@ -1,4 +1,4 @@
-# Prisma Topics to Learn
+# [Prisma Topics to Learn](#)
 
 ## [1. Basics](#)
 - [What is Prisma (ORM vs Query Builder vs Prisma)](#)
@@ -28,11 +28,11 @@
 - [Read (findUnique, findMany, findFirst)](#)
 - [Update](#)
 - [Delete](#)
-- Upsert
-- Filtering & sorting
-- Pagination (skip, take, cursor)
-- Selecting fields & relations (select, include)
-- Nested writes
+- [Upsert](#)
+- [Filtering & sorting](#)
+- [Pagination (skip, take, cursor)](#)
+- [Selecting fields & relations (select, include)](#)
+- [Nested writes](#)
 - [Eager loading with `include`](#)
 - [Lazy loading alternatives](#)
 
@@ -58,12 +58,12 @@
 
 ## [9. Tooling & Ecosystem](#)
 - [Prisma Studio (GUI for DB)](#)
-- Introspection (`prisma db pull`)
-- Using with GraphQL (Nexus, Apollo)
+- [Introspection (`prisma db pull`)](#)
+- [Using with GraphQL (Nexus, Apollo)](#)
 
-## 10. Deployment & Best Practices
-- Environment-specific configs
-- Handling migrations in production
-- Seeding databases
-- Error handling & logging
-- Best practices for schema design
+## [10. Deployment & Best Practices](#)
+- [Environment-specific configs](#)
+- [Handling migrations in production](#)
+- [Seeding databases](#)
+- [Error handling & logging](#)
+- [Best practices for schema design](#)
