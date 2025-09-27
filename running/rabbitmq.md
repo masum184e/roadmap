@@ -20,9 +20,9 @@
 ## 3. Setup & Basics
 - [Installing RabbitMQ (Docker / Local / Cloud)](#)
 - [RabbitMQ Management UI](#)
-- Declaring Queues & Exchanges
-- Publishing & Consuming Messages
-- Auto-delete & Durable Queues
+- [Declaring Queues & Exchanges](#)
+- [Publishing & Consuming Messages](#)
+- [Auto-delete & Durable Queues](#)
 - Persistent Messages
 
 ## 4. Message Patterns
