@@ -12,8 +12,7 @@
   - Nullish Coalescing (`??`), Optional Chaining (`?.`)
 - Type Conversion
   - Implicit vs Explicit
-- Template Literals
-
+  - 
 ## 2. Control Flow
 - if / else / switch
 - for, while, do...while
@@ -130,6 +129,5 @@
 - Linting & Formatting (ESLint, Prettier)
 
 ## 16. Testing
-- Unit Testing with Jest / Mocha
 - DOM Testing with Testing Library
 - End-to-End Testing (Cypress, Playwright)
