@@ -12,7 +12,7 @@
   - Nullish Coalescing (`??`), Optional Chaining (`?.`)
 - Type Conversion
   - Implicit vs Explicit
-  - 
+
 ## 2. Control Flow
 - if / else / switch
 - for, while, do...while
@@ -39,14 +39,14 @@
   - `includes`, `indexOf`, `slice`, `splice`
   - `flat`, `flatMap`
 - Spread operator (`...`)
-- Destructuring Arrays
+- [Destructuring Arrays](#)
 
 ## 5. Objects
 - Object Literals
 - Property Access (dot & bracket)
 - Shorthand properties & methods
 - Object methods: `Object.keys`, `Object.values`, `Object.entries`
-- Destructuring Objects
+- [Destructuring Objects](#)
 - Spread & Rest in objects
 - `this` in objects
 - Prototypes & Inheritance
