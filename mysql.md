@@ -39,8 +39,8 @@
 
 ## 5. Advanced SQL Queries
 - [Aggregate functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)](#)
-- Grouping data with `GROUP BY`
-- Filtering groups with `HAVING`
+- [Grouping data with `GROUP BY`](#)
+- [Filtering groups with `HAVING`](#)
 - [Joining tables:](#)
   - [Inner joins](#)
   - [Left joins](#)
