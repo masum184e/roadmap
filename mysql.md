@@ -89,7 +89,6 @@
 - Partitioning tables
 - Optimizing queries for performance
 - Using MySQL's full-text search capabilities
-- Pagination in queries
 
 ## 13. Advanced Features
 - Views:
