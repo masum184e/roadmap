@@ -2,7 +2,7 @@
 ## 1. Introduction & Basics
 - What is Redis? (In-memory data store, caching, message broker)
 - Redis architecture (single-threaded model, event loop)
-- Installing Redis (local, Docker, cloud)
+- [Installing Redis (local, Docker, cloud)](#)
 - Redis CLI basics (redis-cli, configuration, commands)
 - Understanding redis.conf file
 
