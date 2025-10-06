@@ -21,8 +21,6 @@
 - Error handling: `try...catch...finally`, `throw`
 
 ## 3. Functions
-- Function Declarations & Expressions
-- Parameters & Arguments
 - Default & Rest Parameters
 - Arrow Functions
 - `this` keyword
