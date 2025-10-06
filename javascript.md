@@ -122,8 +122,8 @@
 
 ## 15. Tooling & Ecosystem
 - NPM & package.json
-- Bundlers: Webpack, Vite, Parcel
-- Transpilers: Babel
+- [Bundlers: Webpack, Vite, Parcell](#)
+- [Transpilers: Babel](#)
 - Linting & Formatting (ESLint, Prettier)
 
 ## 16. Testing
