@@ -57,15 +57,7 @@
 - Delegation
 - Browser APIs: `setTimeout`, `setInterval`
 
-## 7. Advanced Functions
-- Callbacks
-- Promises
-- `async/await`
-- Fetch API & AJAX
-- Error Handling in Async
-- Event Loop & Microtasks
-
-## 8. OOP in JavaScript
+## 7. OOP in JavaScript
 - Constructor Functions
 - Prototypes
 - `class` keyword
@@ -77,7 +69,7 @@
 - Encapsulation (`#private`, closures)
 - `implements` keyword (interface + class)
 
-## 9. Advanced Concepts
+## 8. Advanced Concepts
 - Hoisting
 - Scope (Global, Function, Block)
 - Lexical Scope
@@ -87,36 +79,36 @@
 - Modules (ES6 `import` / `export`, CommonJS `require`)
 - [Strict Mode (`"use strict"`)](#)
 
-## 10. Functional Programming
+## 9. Functional Programming
 - [Pure Functions](#)
 - Immutability
 - Currying
 - Composition
 
-## 11. Advanced Data Structures
+## 10. Advanced Data Structures
 - Sets & WeakSets
 - Maps & WeakMaps
 - Iterators & Generators
 - Symbols
 
-## 12. Asynchronous JavaScript Deep Dive
+## 11. Asynchronous JavaScript Deep Dive
 - Event Loop
 - Callbacks vs Promises vs async/await
 - `Promise.all`, `Promise.race`, `Promise.any`, `Promise.allSettled`
-- Web APIs & Task Queue
+- Web APIs & Task Queue, Microtasks
 
-## 13. Browser & Web APIs
+## 12. Browser & Web APIs
 - [LocalStorage, SessionStorage, Cookies](#)
 - Geolocation API
 - Fetch & AbortController
 - WebSockets
 - Service Workers & Caching
 
-## [14. Tooling & Ecosystem](#)
+## [13. Tooling & Ecosystem](#)
 - [Bundlers: Webpack, Vite, Parcell](#)
 - [Transpilers: Babel](#)
 - [Debugging with console & breakpoints](#)
 
-## [15. Testing](#)
+## [14. Testing](#)
 - [DOM Testing with Testing Library](#)
 - [End-to-End Testing (Cypress, Playwright)](#)
