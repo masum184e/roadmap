@@ -7,7 +7,6 @@
   - Primitive: string, number, boolean, null, undefined, symbol, bigint
   - Reference: object, array, function
 - Operators
-  - Arithmetic, Comparison, Logical
   - Ternary operator
   - Nullish Coalescing (`??`), Optional Chaining (`?.`)
 - Type Conversion
@@ -101,28 +100,24 @@
 - Iterators & Generators
 - Symbols
 
-## 12. Error Handling & Debugging
-- Debugging with console & breakpoints
-- `try...catch`, custom errors
-- `Error` object
-
-## 13. Asynchronous JavaScript Deep Dive
+## 12. Asynchronous JavaScript Deep Dive
 - Event Loop
 - Callbacks vs Promises vs async/await
 - `Promise.all`, `Promise.race`, `Promise.any`, `Promise.allSettled`
 - Web APIs & Task Queue
 
-## 14. Browser & Web APIs
+## 13. Browser & Web APIs
 - LocalStorage, SessionStorage, Cookies
 - Geolocation API
 - Fetch & AbortController
 - WebSockets
 - Service Workers & Caching
 
-## [15. Tooling & Ecosystem](#)
+## [14. Tooling & Ecosystem](#)
 - [Bundlers: Webpack, Vite, Parcell](#)
 - [Transpilers: Babel](#)
+- [Debugging with console & breakpoints](#)
 
-## [16. Testing](#)
+## [15. Testing](#)
 - [DOM Testing with Testing Library](#)
 - [End-to-End Testing (Cypress, Playwright)](#)
