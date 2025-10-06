@@ -120,11 +120,11 @@
 - WebSockets
 - Service Workers & Caching
 
-## 15. Tooling & Ecosystem
+## [15. Tooling & Ecosystem](#)
 - [Bundlers: Webpack, Vite, Parcell](#)
 - [Transpilers: Babel](#)
-- Linting & Formatting (ESLint, Prettier)
+- [Linting & Formatting (ESLint, Prettier)](#)
 
-## 16. Testing
-- DOM Testing with Testing Library
-- End-to-End Testing (Cypress, Playwright)
+## [16. Testing](#)
+- [DOM Testing with Testing Library](#)
+- [End-to-End Testing (Cypress, Playwright)](#)
