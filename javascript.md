@@ -3,9 +3,9 @@
 ## 1. Basics
 - What is JavaScript? (History, Runtime)
 - Variables: `var`, `let`, `const`
-- Data Types
-  - Primitive: string, number, boolean, null, undefined, symbol, bigint
-  - Reference: object, array, function
+- [Data Types](#)
+  - [Primitive: string, number, boolean, null, undefined, symbol, bigint](#)
+  - [Reference: object, array, function](#)
 - Operators
   - Ternary operator
   - Nullish Coalescing (`??`), Optional Chaining (`?.`)
@@ -107,7 +107,7 @@
 - Web APIs & Task Queue
 
 ## 13. Browser & Web APIs
-- LocalStorage, SessionStorage, Cookies
+- [LocalStorage, SessionStorage, Cookies](#)
 - Geolocation API
 - Fetch & AbortController
 - WebSockets
