@@ -123,7 +123,6 @@
 ## [15. Tooling & Ecosystem](#)
 - [Bundlers: Webpack, Vite, Parcell](#)
 - [Transpilers: Babel](#)
-- [Linting & Formatting (ESLint, Prettier)](#)
 
 ## [16. Testing](#)
 - [DOM Testing with Testing Library](#)
