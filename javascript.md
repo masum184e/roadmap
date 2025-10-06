@@ -86,7 +86,7 @@
 - Call Stack
 - Event Loop, Queue, and Concurrency
 - Modules (ES6 `import` / `export`, CommonJS `require`)
-- Strict Mode (`"use strict"`)
+- [Strict Mode (`"use strict"`)](#)
 
 ## 10. Functional Programming
 - Pure Functions
