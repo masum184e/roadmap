@@ -121,7 +121,6 @@
 - Service Workers & Caching
 
 ## 15. Tooling & Ecosystem
-- NPM & package.json
 - [Bundlers: Webpack, Vite, Parcell](#)
 - [Transpilers: Babel](#)
 - Linting & Formatting (ESLint, Prettier)
