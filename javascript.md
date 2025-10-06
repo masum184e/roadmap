@@ -88,11 +88,10 @@
 - [Strict Mode (`"use strict"`)](#)
 
 ## 10. Functional Programming
-- Pure Functions
+- [Pure Functions](#)
 - Immutability
 - Currying
 - Composition
-- Recursion
 
 ## 11. Advanced Data Structures
 - Sets & WeakSets
