@@ -102,7 +102,6 @@
 - Symbols
 
 ## 12. Error Handling & Debugging
-- Types of Errors (Syntax, Runtime, Logical)
 - Debugging with console & breakpoints
 - `try...catch`, custom errors
 - `Error` object
