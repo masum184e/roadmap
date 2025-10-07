@@ -12,7 +12,6 @@
 - Immediately Invoked Function Expressions (IIFE)
 - Higher Order Functions (HOF)
 - Immutability
-- Currying
 - Composition
 
 ## 3. DOM Manipulation
