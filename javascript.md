@@ -1,33 +1,22 @@
 # JavaScript Learning Roadmap
 
 ## 1. Basics
-- What is JavaScript? (History, Runtime)
-- Variables: `var`, `let`, `const`
 - [Data Types](#)
   - [Primitive: string, number, boolean, null, undefined, symbol, bigint](#)
   - [Reference: object, array, function](#)
 - Operators
-  - Ternary operator
   - Nullish Coalescing (`??`), Optional Chaining (`?.`)
 - Type Conversion
   - Implicit vs Explicit
 
-## 2. Control Flow
-- if / else / switch
-- for, while, do...while
-- `for...in` vs `for...of`
-- break & continue
-- Error handling: `try...catch...finally`, `throw`
-
-## 3. Functions
+## 2. Functions
 - Default & Rest Parameters
-- Arrow Functions
 - `this` keyword
 - Closures
 - Immediately Invoked Function Expressions (IIFE)
 - Higher Order Functions (HOF)
 
-## 4. Arrays
+## 3. Arrays
 - Creating arrays
 - Array Methods
   - `push`, `pop`, `shift`, `unshift`
@@ -38,7 +27,7 @@
 - Spread operator (`...`)
 - [Destructuring Arrays](#)
 
-## 5. Objects
+## 4. Objects
 - Object Literals
 - Property Access (dot & bracket)
 - Shorthand properties & methods
@@ -48,7 +37,7 @@
 - `this` in objects
 - Prototypes & Inheritance
 
-## 6. DOM Manipulation
+## 5. DOM Manipulation
 - Selecting Elements (`getElementById`, `querySelector`)
 - Creating & Removing Elements
 - Modifying attributes, classes, styles
@@ -57,7 +46,7 @@
 - Delegation
 - Browser APIs: `setTimeout`, `setInterval`
 
-## 7. OOP in JavaScript
+## 6. OOP in JavaScript
 - Constructor Functions
 - Prototypes
 - `class` keyword
@@ -69,7 +58,7 @@
 - Encapsulation (`#private`, closures)
 - `implements` keyword (interface + class)
 
-## 8. Advanced Concepts
+## 7. Advanced Concepts
 - Hoisting
 - Scope (Global, Function, Block)
 - Lexical Scope
@@ -79,32 +68,32 @@
 - Modules (ES6 `import` / `export`, CommonJS `require`)
 - [Strict Mode (`"use strict"`)](#)
 
-## 9. Functional Programming
+## 8. Functional Programming
 - [Pure Functions](#)
 - Immutability
 - Currying
 - Composition
 
-## 10. Advanced Data Structures
+## 9. Advanced Data Structures
 - Sets & WeakSets
 - Maps & WeakMaps
 - Iterators & Generators
 - Symbols
 
-## 11. Asynchronous JavaScript Deep Dive
+## 10. Asynchronous JavaScript Deep Dive
 - Event Loop
 - Callbacks vs Promises vs async/await
 - `Promise.all`, `Promise.race`, `Promise.any`, `Promise.allSettled`
 - Web APIs & Task Queue, Microtasks
 
-## 12. Browser & Web APIs
+## 11. Browser & Web APIs
 - [LocalStorage, SessionStorage, Cookies](#)
 - Geolocation API
 - Fetch & AbortController
 - WebSockets
 - Service Workers & Caching
 
-## [13. Tooling & Ecosystem](#)
+## [12. Tooling & Ecosystem](#)
 - [Bundlers: Webpack, Vite, Parcell](#)
 - [Transpilers: Babel](#)
 - [Debugging with console & breakpoints](#)
