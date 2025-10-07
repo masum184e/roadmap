@@ -14,13 +14,8 @@
 - [Composition](#)
 
 ## 3. DOM Manipulation
-- Selecting Elements (`getElementById`, `querySelector`)
-- Creating & Removing Elements
-- Modifying attributes, classes, styles
-- Event Listeners (`addEventListener`)
 - Event Bubbling & Capturing
 - Delegation
-- Browser APIs: `setTimeout`, `setInterval`
 
 ## 4. OOP in JavaScript
 - Constructor Functions
