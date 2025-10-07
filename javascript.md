@@ -8,7 +8,7 @@
   - [Implicit vs Explicit Type Conversion](#)
 
 ## 2. Functions
-- Closures
+- [Closures](#)
 - Immediately Invoked Function Expressions (IIFE)
 - Higher Order Functions (HOF)
 - [Immutability](#)
