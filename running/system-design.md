@@ -13,12 +13,6 @@
 - CDN (Content Delivery Network)  
 
 ## 3. Storage & Databases
-- SQL vs NoSQL databases
-- Relational databases (MySQL, PostgreSQL)
-- Document stores (MongoDB, CouchDB)
-- Key-value stores (Redis, DynamoDB)
-- Wide-column stores (Cassandra, HBase)  
-- Time-series databases (InfluxDB, TimescaleDB)  
 - Database indexing & sharding  
 - Replication & Partitioning  
 
@@ -29,14 +23,11 @@
 - Write-through, Write-back, Write-around  
 
 ## 5. Messaging & Communication
-- Message queues (RabbitMQ, ActiveMQ)  
 - Distributed log systems (Kafka, Pulsar)  
 - Publish/Subscribe vs Point-to-Point  
 - Event-driven architecture  
 
 ## 6. Scalability Concepts
-- Horizontal vs Vertical scaling  
-- Stateless vs Stateful services  
 - Database scaling (sharding, replication)  
 - CAP theorem & PACELC theorem  
 - Consistency models (strong, eventual, causal)  
