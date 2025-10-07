@@ -11,8 +11,8 @@
 - Closures
 - Immediately Invoked Function Expressions (IIFE)
 - Higher Order Functions (HOF)
-- Immutability
-- Composition
+- [Immutability](#)
+- [Composition](#)
 
 ## 3. DOM Manipulation
 - Selecting Elements (`getElementById`, `querySelector`)
