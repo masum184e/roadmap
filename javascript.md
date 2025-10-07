@@ -42,7 +42,7 @@
 - Execution Context
 - Call Stack
 - Event Loop, Queue, and Concurrency
-- Modules (ES6 `import` / `export`, CommonJS `require`)
+- Web APIs & Task Queue, Microtasks
 - [Strict Mode (`"use strict"`)](#)
 - Prototypes & Inheritance
 
@@ -53,16 +53,13 @@
 - Symbols
 
 ## 7. Asynchronous JavaScript Deep Dive
-- Event Loop
 - Callbacks vs Promises vs async/await
 - `Promise.all`, `Promise.race`, `Promise.any`, `Promise.allSettled`
-- Web APIs & Task Queue, Microtasks
 
 ## 8. Browser & Web APIs
 - [LocalStorage, SessionStorage, Cookies](#)
 - Geolocation API
 - Fetch & AbortController
-- WebSockets
 - Service Workers & Caching
 
 ## [9. Tooling & Ecosystem](#)
