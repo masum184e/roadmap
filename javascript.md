@@ -1,16 +1,15 @@
 # JavaScript Learning Roadmap
 
-## 1. Basics
-- [Data Types](#)
-  - [Primitive: string, number, boolean, null, undefined, symbol, bigint](#)
-  - [Reference: object, array, function](#)
-  - [Nullish Coalescing (`??`), Optional Chaining (`?.`)](#)
-  - [Implicit vs Explicit Type Conversion](#)
+## [1. Basics](#)
+- [Primitive: string, number, boolean, null, undefined, symbol, bigint](#)
+- [Reference: object, array, function](#)
+- [Nullish Coalescing (`??`), Optional Chaining (`?.`)](#)
+- [Implicit vs Explicit Type Conversion](#)
 
-## 2. Functions
+## [2. Functions](#)
 - [Closures](#)
-- Immediately Invoked Function Expressions (IIFE)
-- Higher Order Functions (HOF)
+- [Immediately Invoked Function Expressions (IIFE)](#)
+- [Higher Order Functions (HOF)](#)
 - [Immutability](#)
 - [Composition](#)
 
@@ -36,13 +35,13 @@
 - `implements` keyword (interface + class)
 
 ## 5. Advanced Concepts
-- Hoisting
-- Scope (Global, Function, Block)
-- Lexical Scope
-- Execution Context
-- Call Stack
-- Event Loop, Queue, and Concurrency
-- Web APIs & Task Queue, Microtasks
+- [Hoisting](#)
+- [Scope (Global, Function, Block)](#)
+- [Lexical Scope](#)
+- [Execution Context](#)
+- [Call Stack](#)
+- [Event Loop](#)
+- [Web APIs & Task Queue, Microtasks](#)
 - [Strict Mode (`"use strict"`)](#)
 - Prototypes & Inheritance
 
