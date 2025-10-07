@@ -52,9 +52,9 @@
 - Iterators & Generators
 - Symbols
 
-## 7. Asynchronous JavaScript Deep Dive
-- Callbacks vs Promises vs async/await
-- `Promise.all`, `Promise.race`, `Promise.any`, `Promise.allSettled`
+## [7. Asynchronous JavaScript Deep Dive](#)
+- [Callbacks vs Promises vs async/await](#)
+- [`Promise.all`, `Promise.race`, `Promise.any`, `Promise.allSettled`](#)
 
 ## 8. Browser & Web APIs
 - [LocalStorage, SessionStorage, Cookies](#)
