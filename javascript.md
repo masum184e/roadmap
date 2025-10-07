@@ -11,7 +11,6 @@
 
 ## 2. Functions
 - Default & Rest Parameters
-- `this` keyword
 - Closures
 - Immediately Invoked Function Expressions (IIFE)
 - Higher Order Functions (HOF)
