@@ -47,8 +47,6 @@
 - Chaos engineering  
 
 ## 9. API Design
-- REST APIs (resource design, versioning)  
-- GraphQL basics  
 - gRPC & Protocol Buffers  
 - API Gateway patterns  
 
