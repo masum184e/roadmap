@@ -42,9 +42,7 @@
 - [Default Generic Types](#)
 
 ## [6. Modules & Namespaces](#)
-- [Import & Export](#)
-- [Default vs Named Exports](#)
-- [Re-exports](#)
+- [Import Styles](#)
 - [Namespaces (legacy, but good to know)](#)
 
 ## [7. Type Declarations](#)
