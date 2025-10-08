@@ -28,7 +28,6 @@
 - Event-driven architecture  
 
 ## 6. Scalability Concepts
-- Database scaling (sharding, replication)  
 - CAP theorem & PACELC theorem  
 - Consistency models (strong, eventual, causal)  
 
