@@ -66,10 +66,10 @@
 - Use cases for triggers (e.g., logging changes)
 - Scheduling tasks with MySQL events
 
-## 9. Transactions
-- What are transactions?
-- Using `START TRANSACTION`, `COMMIT`, and `ROLLBACK`
-- Understanding ACID properties
+## [9. Transactions](#)
+- [What are transactions?](#)
+- [Using `START TRANSACTION`, `COMMIT`, and `ROLLBACK`](#)
+- [Understanding ACID properties](#)
 - Isolation levels and their impact
 
 ## 10. Database Security
