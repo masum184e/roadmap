@@ -49,11 +49,11 @@
 - [Subqueries and nested queries](#)
 - [Using `UNION` and `INTERSECT`](#)
 
-## 6. Indexes and Performance
-- What are indexes and how do they work?
-- Creating and using indexes
-- Understanding the impact of indexes on performance
-- Using `EXPLAIN` to analyze query performance
+## [6. Indexes and Performance](#)
+- [What are indexes and how do they work?](#)
+- [Creating and using indexes](#)
+- [Understanding the impact of indexes on performance](#)
+- [Using `EXPLAIN` to analyze query performance](#)
 
 ## 7. Stored Procedures and Functions
 - Creating and using stored procedures
