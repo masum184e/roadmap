@@ -72,10 +72,10 @@
 - [Understanding ACID properties](#)
 - Isolation levels and their impact
 
-## 10. Database Security
-- User management:
-  - Creating users
-  - Granting and revoking privileges
+## [10. Database Security](#)
+- [User management:](#)
+  - [Creating users](#)
+  - [Granting and revoking privileges](#)
 - Securing connections (e.g., SSL/TLS)
 - Best practices for securing MySQL databases
 
