@@ -87,7 +87,7 @@
 
 ## 12. Working with Large Datasets
 - Partitioning tables
-- Optimizing queries for performance
+- [Optimizing queries for performance](#)
 - Using MySQL's full-text search capabilities
 
 ## 13. Advanced Features
