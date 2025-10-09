@@ -90,10 +90,10 @@
 - [Optimizing queries for performance](#)
 - Using MySQL's full-text search capabilities
 
-## 13. Advanced Features
-- Views:
-  - Creating and using views
-  - Advantages and limitations
+## [13. Advanced Features](#)
+- [Views:](#)
+  - [Creating and using views](#)
+  - [Advantages and limitations](#)
 - Temporary tables
 - Common table expressions (CTEs)
 - Using JSON data in MySQL
