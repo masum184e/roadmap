@@ -48,7 +48,7 @@
 - Data encryption basics
 - SQL injection prevention in design
 
-## 9. Tools and Best Practices
+## 8. Tools and Best Practices
 - Using design tools (MySQL Workbench, ERDPlus, Lucidchart, draw.io)
 - Case studies in database design
 - Common pitfalls in database design
