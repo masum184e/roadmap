@@ -64,7 +64,7 @@
 ## [8. Triggers and Events](#)
 - [Creating and using triggers](#)
 - [Use cases for triggers (e.g., logging changes)](#)
-- Scheduling tasks with MySQL events
+- [Scheduling tasks with MySQL events](#)
 
 ## [9. Transactions](#)
 - [What are transactions?](#)
