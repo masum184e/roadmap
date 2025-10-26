@@ -40,7 +40,7 @@
 ## 7. Transactions and Integrity
 - ACID properties
 - Referential integrity
-- Cascading updates/deletes
+- (Cascading updates/deletes)[#]
 - Transaction management and concurrency control
 
 ## 8. Security and Access Control
