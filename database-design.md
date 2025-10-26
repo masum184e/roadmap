@@ -1,10 +1,10 @@
 # Database Design Learning Topics
 
-## 1. Fundamentals
-- What is a database?
-- Database vs. DBMS
-- Types of databases (Relational, NoSQL, Distributed, etc.)
-- Importance of database design
+## [1. Fundamentals](#)
+- [What is a database?](#)
+- [Database vs. DBMS](#)
+- [Types of databases (Relational, NoSQL, Distributed, etc.)](#)
+- [Importance of database design](#)
 
 ## 2. Data Modeling Basics
 - Data, Information, and Knowledge
@@ -40,7 +40,7 @@
 ## 7. Transactions and Integrity
 - ACID properties
 - Referential integrity
-- (Cascading updates/deletes)[#]
+- [Cascading updates/deletes](#)
 - Transaction management and concurrency control
 
 ## 8. Security and Access Control
