@@ -61,9 +61,9 @@
 - [Using parameters in procedures and functions](#)
 - Error handling in stored procedures
 
-## 8. Triggers and Events
-- Creating and using triggers
-- Use cases for triggers (e.g., logging changes)
+## [8. Triggers and Events](#)
+- [Creating and using triggers](#)
+- [Use cases for triggers (e.g., logging changes)](#)
 - Scheduling tasks with MySQL events
 
 ## [9. Transactions](#)
