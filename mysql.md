@@ -55,10 +55,10 @@
 - [Understanding the impact of indexes on performance](#)
 - [Using `EXPLAIN` to analyze query performance](#)
 
-## 7. Stored Procedures and Functions
-- Creating and using stored procedures
-- Writing custom functions
-- Using parameters in procedures and functions
+## [7. Stored Procedures and Functions](#)
+- [Creating and using stored procedures](#)
+- [Writing custom functions](#)
+- [Using parameters in procedures and functions](#)
 - Error handling in stored procedures
 
 ## 8. Triggers and Events
