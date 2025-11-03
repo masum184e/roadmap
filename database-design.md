@@ -9,7 +9,7 @@
 ## [2. Data Modeling Basics](#)
 - [Data, Information, and Knowledge](#)
 - [Conceptual, Logical, and Physical data models](#)
-- Entity-Relationship (ER) Diagrams
+- [Entity-Relationship (ER) Diagrams](#)
 - Identifying entities, attributes, and relationships
 - Keys (Primary, Candidate, Foreign, Composite, Surrogate)
 
