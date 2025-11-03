@@ -15,7 +15,7 @@
 
 ## 3. Normalization
 - Functional dependencies
-- 1st Normal Form (1NF)
+- [1st Normal Form (1NF)](#)
 - 2nd Normal Form (2NF)
 - 3rd Normal Form (3NF)
 - Boyce-Codd Normal Form (BCNF)
