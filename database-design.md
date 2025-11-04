@@ -10,8 +10,8 @@
 - [Data, Information, and Knowledge](#)
 - [Conceptual, Logical, and Physical data models](#)
 - [Entity-Relationship (ER) Diagrams](#)
-- Identifying entities, attributes, and relationships
-- Keys (Primary, Candidate, Foreign, Composite, Surrogate)
+- [Identifying entities, attributes, and relationships](#)
+- [Keys (Primary, Candidate, Foreign, Composite, Surrogate)](#)
 
 ## 3. Normalization
 - Functional dependencies
