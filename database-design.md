@@ -30,10 +30,10 @@
 - Many-to-Many relationship resolution
 - Indexes and performance considerations
 
-## 5. Physical Database Design
-- Mapping ERD to relational schema
-- Choosing data types
-- Defining indexes
+## [5. Physical Database Design](#)
+- [Mapping ERD to relational schema](#)
+- [Choosing data types](#)
+- [Defining indexes](#)
 - Partitioning and sharding basics
 - Storage considerations
 
