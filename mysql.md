@@ -59,7 +59,7 @@
 - [Creating and using stored procedures](#)
 - [Writing custom functions](#)
 - [Using parameters in procedures and functions](#)
-- Error handling in stored procedures
+- [Error handling in stored procedures](#)
 
 ## [8. Triggers and Events](#)
 - [Creating and using triggers](#)
