@@ -79,11 +79,11 @@
 - Securing connections (e.g., SSL/TLS)
 - Best practices for securing MySQL databases
 
-## 11. Data Backup and Restoration
+## [11. Data Backup and Restoration](#)
 - [Exporting data using `mysqldump`](#)
 - [Importing data into a database](#)
 - [Backing up and restoring databases](#)
-- Automating backups
+- [Automating backups](#)
 
 ## 12. Working with Large Datasets
 - Partitioning tables
