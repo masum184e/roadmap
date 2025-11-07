@@ -55,16 +55,16 @@
 - [Understanding the impact of indexes on performance](#)
 - [Using `EXPLAIN` to analyze query performance](#)
 
-## 7. Stored Procedures and Functions
-- Creating and using stored procedures
-- Writing custom functions
-- Using parameters in procedures and functions
-- Error handling in stored procedures
+## [7. Stored Procedures and Functions](#)
+- [Creating and using stored procedures](#)
+- [Writing custom functions](#)
+- [Using parameters in procedures and functions](#)
+- [Error handling in stored procedures](#)
 
-## 8. Triggers and Events
-- Creating and using triggers
-- Use cases for triggers (e.g., logging changes)
-- Scheduling tasks with MySQL events
+## [8. Triggers and Events](#)
+- [Creating and using triggers](#)
+- [Use cases for triggers (e.g., logging changes)](#)
+- [Scheduling tasks with MySQL events](#)
 
 ## [9. Transactions](#)
 - [What are transactions?](#)
@@ -79,11 +79,11 @@
 - Securing connections (e.g., SSL/TLS)
 - Best practices for securing MySQL databases
 
-## 11. Data Backup and Restoration
+## [11. Data Backup and Restoration](#)
 - [Exporting data using `mysqldump`](#)
 - [Importing data into a database](#)
 - [Backing up and restoring databases](#)
-- Automating backups
+- [Automating backups](#)
 
 ## 12. Working with Large Datasets
 - Partitioning tables
