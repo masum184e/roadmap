@@ -94,9 +94,9 @@
 - [Views:](#)
   - [Creating and using views](#)
   - [Advantages and limitations](#)
-- Temporary tables
-- Common table expressions (CTEs)
-- Using JSON data in MySQL
+- [Temporary tables](#)
+- [Common table expressions (CTEs)](#)
+- [Using JSON data in MySQL](#)
 
 ## [14. Integrations and Tools](#)
 - [Connecting MySQL with programming languages (e.g., PHP, Python, Node.js)](#)
