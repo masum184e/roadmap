@@ -105,10 +105,10 @@
   - [MySQL Workbench](#)
   - [phpMyAdmin](#)
 
-## 15. Cloud and Replication
+## [15. Cloud and Replication](#)
 - [Setting up MySQL in cloud platforms (e.g., AWS RDS, Google Cloud SQL)](#)
-- Understanding database replication
-  - Master-slave replication
+- [Understanding database replication](#)
+  - [Master-slave replication](#)
   - Multi-source replication
 - Load balancing and high availability
 
