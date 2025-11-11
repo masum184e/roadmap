@@ -70,7 +70,7 @@
 - [What are transactions?](#)
 - [Using `START TRANSACTION`, `COMMIT`, and `ROLLBACK`](#)
 - [Understanding ACID properties](#)
-- Isolation levels and their impact
+- [Isolation levels and their impact](#)
 
 ## [10. Database Security](#)
 - [User management:](#)
