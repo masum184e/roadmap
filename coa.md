@@ -9,8 +9,8 @@
 
 ## 2. Data Representation
 
-- Number systems: binary, octal, decimal, hexadecimal
-- Signed number representation: 1’s & 2’s complement
+- [Number systems: binary, octal, decimal, hexadecimal](#)
+- [Signed number representation: 1’s & 2’s complement](#)
 - Floating-point representation (IEEE 754)
 - Character encoding (ASCII, Unicode)
 - Arithmetic operations on integers and floating-point numbers
