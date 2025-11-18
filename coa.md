@@ -35,7 +35,7 @@
 
 ## 5. Arithmetic and Logic Unit (ALU)
 
-- Combinational circuits: adder, subtractor, multiplier
+- [Combinational circuits: adder, subtractor, multiplier](#)
 - Carry lookahead adder
 - Booth’s algorithm and binary multiplication
 - Division algorithms
