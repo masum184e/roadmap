@@ -14,8 +14,8 @@
 - [Hashes: HSET, HGET, HGETALL](#)
 - [Bitmaps: SETBIT, GETBIT, BITCOUNT](#)
 
-## 3. Key Management
-- Key expiration: EXPIRE, TTL, PERSIST
+## [3. Key Management](#)
+- [Key expiration: EXPIRE, TTL, PERSIST](#)
 - Pattern matching: SCAN, KEYS
 - Key naming conventions & best practices
 - Deleting data: DEL, UNLINK
