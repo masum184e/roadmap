@@ -16,9 +16,9 @@
 
 ## [3. Key Management](#)
 - [Key expiration: EXPIRE, TTL, PERSIST](#)
-- Pattern matching: SCAN, KEYS
-- Key naming conventions & best practices
-- Deleting data: DEL, UNLINK
+- [Pattern matching: SCAN, KEYS](#)
+- [Key naming conventions & best practices](#)
+- [Deleting data: DEL, UNLINK](#)
 
 ## 4. Persistence & Durability
 - RDB (Snapshotting): configuration & performance
