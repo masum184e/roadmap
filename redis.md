@@ -20,16 +20,16 @@
 - [Key naming conventions & best practices](#)
 - [Deleting data: DEL, UNLINK](#)
 
-## 4. Persistence & Durability
-- RDB (Snapshotting): configuration & performance
-- AOF (Append Only File): configuration & recovery
-- Hybrid persistence (RDB + AOF)
-- Backup & restore strategies
+## [4. Persistence & Durability](#)
+- [RDB (Snapshotting): configuration & performance](#)
+- [AOF (Append Only File): configuration & recovery](#)
+- [Hybrid persistence (RDB + AOF)](#)
+- [Backup & restore strategies](#)
 
-## 5. Pub/Sub & Messaging
-- PUBLISH / SUBSCRIBE
-- Pattern-based subscriptions (PSUBSCRIBE)
-- Use cases (real-time notifications, chat apps)
+## [5. Pub/Sub & Messaging](#)
+- [PUBLISH / SUBSCRIBE](#)
+- [Pattern-based subscriptions (PSUBSCRIBE)](#)
+- [Use cases (real-time notifications, chat apps)](#)
 
 ## 6. Transactions & Atomicity
 - MULTI, EXEC, DISCARD, WATCH
