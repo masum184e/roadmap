@@ -1,20 +1,18 @@
 # Topics to Learn for Redis
-## 1. Introduction & Basics
-- What is Redis? (In-memory data store, caching, message broker)
-- Redis architecture (single-threaded model, event loop)
+## [1. Introduction & Basics](#)
+- [What is Redis? (In-memory data store, caching, message broker)](#)
+- [Redis architecture (single-threaded model, event loop)](#)
 - [Installing Redis (local, Docker, cloud)](#)
-- Redis CLI basics (redis-cli, configuration, commands)
-- Understanding redis.conf file
+- [Redis CLI basics (redis-cli, configuration, commands)](#)
+- [Understanding redis.conf file](#)
 
-## 2. Data Types & Operations
-- Strings: SET, GET, INCR, APPEND
-- Lists: LPUSH, RPUSH, LRANGE, LPOP, RPOP
-- Sets: SADD, SMEMBERS, SINTER, SUNION
-- Sorted Sets (ZSets): ZADD, ZRANGE, ZRANK, ZREM
-- Hashes: HSET, HGET, HGETALL
-- Bitmaps: SETBIT, GETBIT, BITCOUNT
-- HyperLogLog: PFADD, PFCOUNT
-- Streams: XADD, XREAD, XGROUP
+## [2. Data Types & Operations](#)
+- [Strings: SET, GET, INCR, APPEND](#)
+- [Lists: LPUSH, RPUSH, LRANGE, LPOP, RPOP](#)
+- [Sets: SADD, SMEMBERS, SINTER, SUNION](#)
+- [Sorted Sets (ZSets): ZADD, ZRANGE, ZRANK, ZREM](#)
+- [Hashes: HSET, HGET, HGETALL](#)
+- [Bitmaps: SETBIT, GETBIT, BITCOUNT](#)
 
 ## 3. Key Management
 - Key expiration: EXPIRE, TTL, PERSIST
