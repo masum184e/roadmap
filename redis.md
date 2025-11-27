@@ -23,8 +23,8 @@
 ## [4. Persistence & Durability](#)
 - [RDB (Snapshotting): configuration & performance](#)
 - [AOF (Append Only File): configuration & recovery](#)
-- [Hybrid persistence (RDB + AOF)](#)
-- [Backup & restore strategies](#)
+- Hybrid persistence (RDB + AOF)
+- Backup & restore strategies
 
 ## [5. Pub/Sub & Messaging](#)
 - [PUBLISH / SUBSCRIBE](#)
