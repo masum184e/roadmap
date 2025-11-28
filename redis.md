@@ -29,11 +29,11 @@
 ## [5. Pub/Sub & Messaging](#)
 - [PUBLISH / SUBSCRIBE](#)
 - [Pattern-based subscriptions (PSUBSCRIBE)](#)
-- [Use cases (real-time notifications, chat apps)](#)
+- Use cases (real-time notifications, chat apps)
 
-## 6. Transactions & Atomicity
-- MULTI, EXEC, DISCARD, WATCH
-- Optimistic locking
+## [6. Transactions & Atomicity](#)
+- [MULTI, EXEC, DISCARD, WATCH](#)
+- [Optimistic locking](#)
 - Ensuring atomic operations
 
 ## 7. Replication & High Availability
