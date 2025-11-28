@@ -36,9 +36,9 @@
 - [Optimistic locking](#)
 - Ensuring atomic operations
 
-## 7. Replication & High Availability
-- Master-slave replication
-- Read replicas
+## [7. Replication & High Availability](#)
+- [Master-slave replication](#)
+- [Read replicas](#)
 - Redis Sentinel for failover
 - Redis Cluster basics (sharding, slots)
 
