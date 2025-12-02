@@ -50,8 +50,6 @@
 ## 9. Advanced Features
 - Redis Modules (RedisJSON, RedisSearch, RedisGraph, RedisBloom)
 - Geospatial indexes (GEOADD, GEORADIUS)
-- Stream processing with consumer groups
-- Custom commands with modules
 
 ## 10. Performance Optimization
 - Memory optimization (maxmemory, eviction policies)
@@ -62,7 +60,6 @@
 ## 11. Monitoring & Troubleshooting
 - Redis MONITOR, INFO, SLOWLOG
 - Log analysis
-- Memory usage inspection
 - Debugging blocking operations
 
 ## 12. Real-world Integrations
