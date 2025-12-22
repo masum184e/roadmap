@@ -45,16 +45,16 @@
 
 ## 6. Research Paper Structure
 
-- Title writing
-- Abstract
-- Introduction
-- Literature Review
+- [Title writing](#)
+- [Abstract](#)
+- [Introduction](#)
+- [Literature Review](#)
 - Methodology
 - Results
 - Discussion
 - Conclusion and future work
 - Acknowledgments
-- References##
+- References
 
 ## 7. Academic Writing Skills
 
