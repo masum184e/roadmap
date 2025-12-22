@@ -1,7 +1,7 @@
 ## 1. Understanding Research Fundamentals
 
-- What is research and types of research (basic, applied, qualitative, quantitative, mixed)
-- Research vs review papers
+- [What is research and types of research (basic, applied, qualitative, quantitative, mixed)](#)
+- [Research vs review papers](#)
 - Research objectives and questions
 - Hypothesis formulation
 - Variables and controls
@@ -63,7 +63,7 @@
 - Paraphrasing and summarizing
 - Argument development
 - Avoiding common grammar mistakes
-- Figures, tables, and captions##
+- Figures, tables, and captions
 
 ## 8. Referencing & Citation Styles
 
@@ -72,7 +72,7 @@
 - Chicago
 - IEEE
 - Harvard
-- In-text citations vs reference list##
+- In-text citations vs reference list
 
 ## 9. Journal & Conference Selection
 
