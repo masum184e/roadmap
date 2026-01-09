@@ -30,10 +30,10 @@
 - [JWT (JSON Web Tokens)](#)  
 - [Role-based & permission-based access](#)  
 
-## 6. Validation & Error Handling
-- Input validation (body, query, headers)  
-- Meaningful error responses (error codes, messages)  
-- Standard error format (problem+json, RFC 7807)  
+## [6. Validation & Error Handling](#)
+- [Input validation (body, query, headers)](#)  
+- [Meaningful error responses (error codes, messages)](#)  
+- [Standard error format (problem+json, RFC 7807)](#)  
 
 ## [7. Security Best Practices](#)
 - [HTTPS everywhere](#)  
@@ -48,9 +48,9 @@
 - [Deprecation strategies](#)  
 - [Backward compatibility](#)  
 
-## 9. Documentation & Discoverability
-- OpenAPI/Swagger specification  
-- API Blueprint, RAML  
+## [9. Documentation & Discoverability](#)
+- [OpenAPI/Swagger specification](#)  
+- [API Blueprint, RAML](#)  
 - Postman collections  
 - Self-descriptive messages and HATEOAS (optional in REST)  
 
