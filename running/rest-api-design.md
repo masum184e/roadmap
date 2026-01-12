@@ -51,8 +51,8 @@
 ## [9. Documentation & Discoverability](#)
 - [OpenAPI/Swagger specification](#)  
 - [API Blueprint, RAML](#)  
-- Postman collections  
-- Self-descriptive messages and HATEOAS (optional in REST)  
+- [Postman collections](#)  
+- [Self-descriptive messages and HATEOAS (optional in REST)](#)  
 
 ## 10. Testing & Monitoring
 - Unit testing for endpoints  
