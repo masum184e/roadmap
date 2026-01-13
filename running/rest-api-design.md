@@ -54,10 +54,10 @@
 - [Postman collections](#)  
 - [Self-descriptive messages and HATEOAS (optional in REST)](#)  
 
-## 10. Testing & Monitoring
-- Unit testing for endpoints  
-- Integration testing  
-- Postman / Newman testing  
+## [10. Testing & Monitoring](#)
+- [Unit testing for endpoints](#)  
+- [Integration testing](#)  
+- [Postman / Newman testing](#)  
 - API monitoring & logging  
 - Error tracking (Sentry, ELK stack)  
 
