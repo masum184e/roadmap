@@ -58,8 +58,8 @@
 - [Unit testing for endpoints](#)  
 - [Integration testing](#)  
 - [Postman / Newman testing](#)  
-- API monitoring & logging  
-- Error tracking (Sentry, ELK stack)  
+- [API monitoring & logging](#)  
+- [Error tracking (Sentry, ELK stack)](#)  
 
 ## 11. Performance & Scalability
 - Caching strategies (ETag, Last-Modified, Cache-Control)  
