@@ -61,8 +61,7 @@
 - [API monitoring & logging](#)  
 - [Error tracking (Sentry, ELK stack)](#)  
 
-## 11. Performance & Scalability
-- Caching strategies (ETag, Last-Modified, Cache-Control)  
-- Rate limiting & quotas  
-- Async processing & webhooks  
-- Load balancing & scaling APIs  
+## [11. Performance & Scalability](#)
+- [Caching strategies (ETag, Last-Modified, Cache-Control)](#)  
+- [Rate limiting & quotas](#)  
+- [Async processing & webhooks](#)  
