@@ -109,8 +109,8 @@
 - [Setting up MySQL in cloud platforms (e.g., AWS RDS, Google Cloud SQL)](#)
 - [Understanding database replication](#)
   - [Master-slave replication](#)
-  - Multi-source replication
-- Load balancing and high availability
+  - [Multi-source replication](#)
+- [Load balancing and high availability](#)
 
 ## [16. Best Practices](#)
 - [Designing efficient schemas](#)
