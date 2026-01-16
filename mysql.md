@@ -118,8 +118,8 @@
 - [Writing efficient queries)](#)
 - [Avoiding common pitfalls (e.g., overusing indexes, poorly written joins)](#)
 
-## 17. Real-World Use Cases and Projects
-- Building a relational database for an e-commerce site
-- Implementing user authentication and authorization systems
-- Storing and querying large datasets
-- Reporting and analytics using MySQL
+## [17. Real-World Use Cases and Projects](#)
+- [Building a relational database for an e-commerce site](#)
+- [Implementing user authentication and authorization systems](#)
+- [Storing and querying large datasets](#)
+- [Reporting and analytics using MySQL](#)
