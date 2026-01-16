@@ -76,8 +76,8 @@
 - [User management:](#)
   - [Creating users](#)
   - [Granting and revoking privileges](#)
-- Securing connections (e.g., SSL/TLS)
-- Best practices for securing MySQL databases
+- [Securing connections (e.g., SSL/TLS)](#)
+- [Best practices for securing MySQL databases](#)
 
 ## [11. Data Backup and Restoration](#)
 - [Exporting data using `mysqldump`](#)
@@ -85,10 +85,10 @@
 - [Backing up and restoring databases](#)
 - [Automating backups](#)
 
-## 12. Working with Large Datasets
-- Partitioning tables
+## [12. Working with Large Datasets](#)
+- [Partitioning tables](#)
 - [Optimizing queries for performance](#)
-- Using MySQL's full-text search capabilities
+- [Using MySQL's full-text search capabilities](#)
 
 ## [13. Advanced Features](#)
 - [Views:](#)
