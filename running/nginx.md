@@ -9,7 +9,7 @@
   - [Main config files (`nginx.conf`, `sites-available`, `sites-enabled`)](#)
   - [Contexts: `main`, `http`, `server`, `location`](#)
   - [Directives vs Blocks](#)
-  - Include directive
+  - [Include directive](#)
 
 ## 3. HTTP Server
   - Serving static files
@@ -29,11 +29,11 @@
   - Regex (`~`, `~*`)
   - Priority rules
 
-## 6. Reverse Proxy & Load Balancing
-  - `proxy_pass`
-  - Proxy headers (`X-Forwarded-*`)
-  - Load balancing methods (round-robin, least_conn, ip_hash)
-  - Health checks
+## [6. Reverse Proxy & Load Balancing](#)
+  - [`proxy_pass`](#)
+  - [Proxy headers (`X-Forwarded-*`)](#)
+  - [Load balancing methods (round-robin, least_conn, ip_hash)](#)
+  - [Health checks](#)
 
 ## 7. Security
   - SSL/TLS setup (certificates, `ssl_certificate`, `ssl_certificate_key`)
