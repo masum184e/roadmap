@@ -1,14 +1,14 @@
 # Nginx Must-Know Topics
 
-## 1. Introduction & Basics
-  - What is Nginx
-  - Nginx vs Apache
-  - Installation & setup
+## [1. Introduction & Basics](#)
+  - [What is Nginx](#)
+  - [Nginx vs Apache](#)
+  - [Installation & setup](#)
 
-## 2. Core Configuration
-  - Main config files (`nginx.conf`, `sites-available`, `sites-enabled`)
-  - Contexts: `main`, `http`, `server`, `location`
-  - Directives vs Blocks
+## [2. Core Configuration](#)
+  - [Main config files (`nginx.conf`, `sites-available`, `sites-enabled`)](#)
+  - [Contexts: `main`, `http`, `server`, `location`](#)
+  - [Directives vs Blocks](#)
   - Include directive
 
 ## 3. HTTP Server
