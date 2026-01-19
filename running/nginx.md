@@ -11,8 +11,8 @@
   - [Directives vs Blocks](#)
   - [Include directive](#)
 
-## 3. HTTP Server
-  - Serving static files
+## [3. HTTP Server](#)
+  - [Serving static files](#)
   - MIME types
   - Default server block
   - Index files
