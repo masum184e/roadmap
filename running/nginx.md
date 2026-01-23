@@ -40,8 +40,8 @@
   - [Redirect HTTP → HTTPS](#)
   - [Rate limiting (`limit_req`)](#)
   - [Connection limiting (`limit_conn`)](#)
-  - Restricting access (`allow`, `deny`)
-  - Basic authentication
+  - [Restricting access (`allow`, `deny`)](#)
+  - [Basic authentication](#)
 
 ## 8. Performance Optimization
   - Gzip compression
@@ -54,8 +54,8 @@
   - [Access log format](#)
   - [Error logs](#)
   - [Log rotation](#)
-  - Stub status module (basic monitoring)
-  - Integration with monitoring tools
+  - [Stub status module (basic monitoring)](#)
+  - [Integration with monitoring tools](#)
 
 ## 10. Advanced Features
   - Rewrite & Redirect rules
