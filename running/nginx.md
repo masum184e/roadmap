@@ -13,10 +13,10 @@
 
 ## [3. HTTP Server](#)
   - [Serving static files](#)
-  - MIME types
-  - Default server block
-  - Index files
-  - Autoindex
+  - [MIME types](#)
+  - [Default server block](#)
+  - [Index files](#)
+  - [Autoindex](#)
 
 ## 4. Server Blocks (Virtual Hosts)
   - Name-based virtual hosting
@@ -35,11 +35,11 @@
   - [Load balancing methods (round-robin, least_conn, ip_hash)](#)
   - [Health checks](#)
 
-## 7. Security
-  - SSL/TLS setup (certificates, `ssl_certificate`, `ssl_certificate_key`)
-  - Redirect HTTP → HTTPS
-  - Rate limiting (`limit_req`)
-  - Connection limiting (`limit_conn`)
+## [7. Security](#)
+  - [SSL/TLS setup (certificates, `ssl_certificate`, `ssl_certificate_key`)](#)
+  - [Redirect HTTP → HTTPS](#)
+  - [Rate limiting (`limit_req`)](#)
+  - [Connection limiting (`limit_conn`)](#)
   - Restricting access (`allow`, `deny`)
   - Basic authentication
 
