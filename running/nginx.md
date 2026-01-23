@@ -50,10 +50,10 @@
   - Keepalive connections
   - Worker processes & connections tuning
 
-## 9. Logging & Monitoring
-  - Access log format
-  - Error logs
-  - Log rotation
+## [9. Logging & Monitoring](#)
+  - [Access log format](#)
+  - [Error logs](#)
+  - [Log rotation](#)
   - Stub status module (basic monitoring)
   - Integration with monitoring tools
 
