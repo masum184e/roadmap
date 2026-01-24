@@ -37,12 +37,6 @@
 - Handling requests and responses
 - Serving static files manually or with libraries (e.g., `serve-static`)
 
-## 7. Express.js Integration
-- Setting up an Express app as the framework for backend
-- Middleware concepts
-- Routing and API design
-- Error handling in Express
-
 ## 8. File Handling
 - Reading and writing files (`fs.readFile`, `fs.writeFile`)
 - Working with file streams for large files
@@ -61,10 +55,6 @@
 - Hashing passwords using `bcrypt`
 - Session management and cookies
 - Role-based access control
-
-## 11. Real-time Communication
-- Using `WebSocket` for real-time communication
-- Working with `Socket.IO` for features like chat apps or live updates
 
 ## 12. Streams and Buffers
 - Understanding streams (`Readable`, `Writable`, `Duplex`, `Transform`)
@@ -103,15 +93,3 @@
 - Handling CORS for React-Express communication
 - Proxying requests from React to Node.js in development
 - Building and serving React frontend with Express
-
-## Tools and Libraries to Explore
-- `dotenv` for environment variables
-- `nodemon` for development automation
-- `axios` or `node-fetch` for HTTP requests
-- `jsonwebtoken` for JWT-based authentication
-- `bcrypt` for password hashing
-- `socket.io` for real-time communication
-- `express` for web frameworks
-- `mongoose` for MongoDB integration
-- `dotenv` for environment variables
-- `helmet` for security
