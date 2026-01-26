@@ -18,16 +18,16 @@
   - [Index files](#)
   - [Autoindex](#)
 
-## 4. Server Blocks (Virtual Hosts)
-  - Name-based virtual hosting
-  - IP-based virtual hosting
-  - Default server
+## [4. Server Blocks (Virtual Hosts)](#)
+  - [Name-based virtual hosting](#)
+  - [IP-based virtual hosting](#)
+  - [Default server](#)
 
-## 5. Location Matching
-  - Prefix (`/path/`)
-  - Exact match (`=`)
-  - Regex (`~`, `~*`)
-  - Priority rules
+## [5. Location Matching](#)
+  - [Prefix (`/path/`)](#)
+  - [Exact match (`=`)](#)
+  - [Regex (`~`, `~*`)](#)
+  - [Priority rules](#)
 
 ## [6. Reverse Proxy & Load Balancing](#)
   - [`proxy_pass`](#)
