@@ -57,8 +57,8 @@
   - [Stub status module (basic monitoring)](#)
   - [Integration with monitoring tools](#)
 
-## 10. Advanced Features
-  - Rewrite & Redirect rules
+## [10. Advanced Features](#)
+  - [Rewrite & Redirect rules](#)
   - URL rewriting with `rewrite`
   - Redirect with `return`
   - FastCGI (PHP-FPM)
