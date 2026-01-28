@@ -90,4 +90,3 @@
 ## [17. API Integration](#)
 - [Handling CORS for React-Express communication](#)
 - [Proxying requests from React to Node.js in development](#)
-- [Building and serving React frontend with Express](#)
