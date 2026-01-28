@@ -87,9 +87,7 @@
 - Optimizing database queries and caching results
 - Profiling and monitoring Node.js applications
 
-## 17. Integration with MERN Stack
-- Connecting Node.js backend to MongoDB (with Mongoose)
-- Designing RESTful APIs for React frontend
-- Handling CORS for React-Express communication
-- Proxying requests from React to Node.js in development
-- Building and serving React frontend with Express
+## [17. API Integration](#)
+- [Handling CORS for React-Express communication](#)
+- [Proxying requests from React to Node.js in development](#)
+- [Building and serving React frontend with Express](#)
