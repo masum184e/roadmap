@@ -1,10 +1,9 @@
 # Node.js Topics for MERN Stack
 
-## 1. Node.js Basics
-- What is Node.js and its event-driven architecture
-- Installing Node.js and using Node REPL
-- Global objects (`__dirname`, `__filename`, `process`, `console`)
-- Using Node.js modules (`require`, `module.exports`)
+## [1. Node.js Basics](#)
+- [What is Node.js and its event-driven architecture](#)
+- [Installing Node.js and using Node REPL](#)
+- [Global objects (`__dirname`, `__filename`, `process`, `console`)](#)
 
 ## [2. Core Modules](#)
 - [**File System**: Reading, writing, and manipulating files (`fs`)](#)
