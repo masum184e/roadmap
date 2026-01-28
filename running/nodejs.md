@@ -6,13 +6,13 @@
 - Global objects (`__dirname`, `__filename`, `process`, `console`)
 - Using Node.js modules (`require`, `module.exports`)
 
-## 2. Core Modules
-- **File System**: Reading, writing, and manipulating files (`fs`)
-- **Path**: Working with file and directory paths (`path`)
-- **HTTP**: Creating basic HTTP servers and handling requests (`http`)
-- **Events**: EventEmitter and custom events (`events`)
-- **Stream**: Reading and writing streams (`stream`)
-- **OS**: Accessing system information (`os`)
+## [2. Core Modules](#)
+- [**File System**: Reading, writing, and manipulating files (`fs`)](#)
+- [**Path**: Working with file and directory paths (`path`)](#)
+- [**HTTP**: Creating basic HTTP servers and handling requests (`http`)](#)
+- [**Events**: EventEmitter and custom events (`events`)](#)
+- [**Stream**: Reading and writing streams (`stream`)](#)
+- [**OS**: Accessing system information (`os`)](#)
 
 ## 3. Package Management with npm
 - Installing and managing packages with npm
