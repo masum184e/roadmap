@@ -26,27 +26,23 @@
 - Using `util.promisify` for callback-based APIs
 - Working with the `Promise.all` method
 
-## 5. Working with APIs
-- Sending HTTP requests using `http`, `https`, or libraries like `axios` or `node-fetch`
-- Parsing and handling JSON data
-
-## 6. Building a Web Server
+## 5. Building a Web Server
 - Creating a simple HTTP server
 - Handling requests and responses
 - Serving static files manually or with libraries (e.g., `serve-static`)
 
-## 7. File Handling
+## 6. File Handling
 - Reading and writing files (`fs.readFile`, `fs.writeFile`)
 - Working with file streams for large files
 - Handling file uploads (e.g., `multer`)
 - File streaming and downloads
 
-## 8. Streams and Buffers
+## 7. Streams and Buffers
 - Understanding streams (`Readable`, `Writable`, `Duplex`, `Transform`)
 - Reading and writing large files using streams
 - Working with Buffers for binary data
 
-## 13. Security Best Practices
+## 8. Security Best Practices
 - Preventing common vulnerabilities (e.g., XSS, CSRF, SQL Injection)
 - Securing sensitive data using environment variables (`dotenv`)
 - Protecting APIs with rate limiting and CORS
