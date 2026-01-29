@@ -36,26 +36,13 @@
 - Handling requests and responses
 - Serving static files manually or with libraries (e.g., `serve-static`)
 
-## 8. File Handling
+## 7. File Handling
 - Reading and writing files (`fs.readFile`, `fs.writeFile`)
 - Working with file streams for large files
 - Handling file uploads (e.g., `multer`)
 - File streaming and downloads
 
-## 9. Working with Databases
-- Connecting to MongoDB using the native MongoDB driver or Mongoose
-- Performing CRUD operations
-- Handling database connections and errors
-- Structuring models and controllers
-- Querying the database in route handlers
-
-## 10. Authentication and Authorization
-- Implementing token-based authentication with JWT
-- Hashing passwords using `bcrypt`
-- Session management and cookies
-- Role-based access control
-
-## 12. Streams and Buffers
+## 8. Streams and Buffers
 - Understanding streams (`Readable`, `Writable`, `Duplex`, `Transform`)
 - Reading and writing large files using streams
 - Working with Buffers for binary data
@@ -66,26 +53,24 @@
 - Protecting APIs with rate limiting and CORS
 - Validating user input to prevent malicious data
 
-## 14. Unit Testing and Debugging
+## 9. Unit Testing and Debugging
 - Writing tests with frameworks like `Mocha`, `Jest`, or `Chai`
 - Mocking and stubbing with `Sinon.js`
 - Debugging using Node.js debugger or VS Code
 - API testing with tools like `Postman` or `Supertest`
 - Debugging with built-in Node.js tools or `debug` middleware
 
-## 15. Node.js Deployment
-- Preparing Node.js apps for production
+## 10. Node.js Deployment
 - Using `pm2` for process management
 - Deploying Node.js apps on platforms like Heroku, AWS, or DigitalOcean
 - Setting up reverse proxies with Nginx
-- Configuring environment variables for production
 
-## 16. Performance Optimization
+## 11. Performance Optimization
 - Using clustering to utilize multi-core processors
 - Understanding and using the Event Loop effectively
 - Optimizing database queries and caching results
 - Profiling and monitoring Node.js applications
 
-## [17. API Integration](#)
+## [12. API Integration](#)
 - [Handling CORS for React-Express communication](#)
 - [Proxying requests from React to Node.js in development](#)
