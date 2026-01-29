@@ -28,7 +28,6 @@
 
 ## 5. Working with APIs
 - Sending HTTP requests using `http`, `https`, or libraries like `axios` or `node-fetch`
-- Consuming REST APIs
 - Parsing and handling JSON data
 
 ## 6. Building a Web Server
@@ -60,17 +59,12 @@
 - API testing with tools like `Postman` or `Supertest`
 - Debugging with built-in Node.js tools or `debug` middleware
 
-## 10. Node.js Deployment
-- Using `pm2` for process management
-- Deploying Node.js apps on platforms like Heroku, AWS, or DigitalOcean
-- Setting up reverse proxies with Nginx
-
-## 11. Performance Optimization
+## 10. Performance Optimization
 - Using clustering to utilize multi-core processors
 - Understanding and using the Event Loop effectively
 - Optimizing database queries and caching results
 - Profiling and monitoring Node.js applications
 
-## [12. API Integration](#)
+## [11. API Integration](#)
 - [Handling CORS for React-Express communication](#)
 - [Proxying requests from React to Node.js in development](#)
