@@ -21,8 +21,6 @@
 - [Creating and publishing custom npm packages](#)
 
 ## 4. Asynchronous Programming
-- Callbacks, Promises, and `async/await`
-- Error handling in asynchronous operations
 - Using `util.promisify` for callback-based APIs
 - Working with the `Promise.all` method
 
