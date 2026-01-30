@@ -13,12 +13,12 @@
 - [**Stream**: Reading and writing streams (`stream`)](#)
 - [**OS**: Accessing system information (`os`)](#)
 
-## 3. Package Management with npm
-- Installing and managing packages with npm
-- Using `package.json` and `package-lock.json`
-- Understanding dependencies (`dependencies` vs. `devDependencies`)
-- Semantic Versioning and updating packages
-- Creating and publishing custom npm packages
+## [3. Package Management with npm](#)
+- [Installing and managing packages with npm](#)
+- [Using `package.json` and `package-lock.json`](#)
+- [Understanding dependencies (`dependencies` vs. `devDependencies`)](#)
+- [Semantic Versioning and updating packages](#)
+- [Creating and publishing custom npm packages](#)
 
 ## 4. Asynchronous Programming
 - Callbacks, Promises, and `async/await`
