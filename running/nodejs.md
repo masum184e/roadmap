@@ -24,35 +24,31 @@
 - [Using `util.promisify` for callback-based APIs](#)
 - [Working with the `Promise.all` method](#)
 
-## 5. Building a Web Server
-- Creating a simple HTTP server
-- Handling requests and responses
+## 5. File Handling
 - Serving static files manually or with libraries (e.g., `serve-static`)
-
-## 6. File Handling
 - Reading and writing files (`fs.readFile`, `fs.writeFile`)
 - Working with file streams for large files
 - Handling file uploads (e.g., `multer`)
 - File streaming and downloads
 
-## 7. Streams and Buffers
+## 6. Streams and Buffers
 - Understanding streams (`Readable`, `Writable`, `Duplex`, `Transform`)
 - Reading and writing large files using streams
 - Working with Buffers for binary data
 
-## 8. Unit Testing and Debugging
+## 7. Unit Testing and Debugging
 - Writing tests with frameworks like `Mocha`, `Jest`, or `Chai`
 - Mocking and stubbing with `Sinon.js`
 - Debugging using Node.js debugger or VS Code
 - API testing with tools like `Postman` or `Supertest`
 - Debugging with built-in Node.js tools or `debug` middleware
 
-## 9. Performance Optimization
+## 8. Performance Optimization
 - Using clustering to utilize multi-core processors
 - Understanding and using the Event Loop effectively
 - Optimizing database queries and caching results
 - Profiling and monitoring Node.js applications
 
-## [10. API Integration](#)
+## [9. API Integration](#)
 - [Handling CORS for React-Express communication](#)
 - [Proxying requests from React to Node.js in development](#)
