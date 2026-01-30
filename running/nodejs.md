@@ -20,9 +20,9 @@
 - [Semantic Versioning and updating packages](#)
 - [Creating and publishing custom npm packages](#)
 
-## 4. Asynchronous Programming
-- Using `util.promisify` for callback-based APIs
-- Working with the `Promise.all` method
+## [4. Asynchronous Programming](#)
+- [Using `util.promisify` for callback-based APIs](#)
+- [Working with the `Promise.all` method](#)
 
 ## 5. Building a Web Server
 - Creating a simple HTTP server
