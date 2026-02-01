@@ -24,10 +24,10 @@
 - [Using `util.promisify` for callback-based APIs](#)
 - [Working with the `Promise.all` method](#)
 
-## 5. File Handling
-- Serving static files manually or with libraries (e.g., `serve-static`)
-- Reading and writing files (`fs.readFile`, `fs.writeFile`)
-- Working with file streams for large files
+## [5. File Handling](#)
+- [Serving static files manually or with libraries (e.g., `serve-static`)](#)
+- [Reading and writing files with streams](#)
+- [Working with file streams for large files](#)
 - Handling file uploads (e.g., `multer`)
 - File streaming and downloads
 
