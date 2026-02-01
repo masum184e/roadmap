@@ -30,10 +30,9 @@
 - [Working with file streams for large files](#)
 - [File streaming and downloads](#)
 
-## 6. Streams and Buffers
-- Understanding streams (`Readable`, `Writable`, `Duplex`, `Transform`)
-- Reading and writing large files using streams
-- Working with Buffers for binary data
+## [6. Streams and Buffers](#)
+- [Understanding streams (`Readable`, `Writable`, `Duplex`, `Transform`)](#)
+- [Working with Buffers for binary data](#)
 
 ## [7. Unit Testing and Debugging](#)
 - Testing Tool:
