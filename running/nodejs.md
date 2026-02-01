@@ -28,8 +28,7 @@
 - [Serving static files manually or with libraries (e.g., `serve-static`)](#)
 - [Reading and writing files with streams](#)
 - [Working with file streams for large files](#)
-- Handling file uploads (e.g., `multer`)
-- File streaming and downloads
+- [File streaming and downloads](#)
 
 ## 6. Streams and Buffers
 - Understanding streams (`Readable`, `Writable`, `Duplex`, `Transform`)
@@ -37,10 +36,8 @@
 - Working with Buffers for binary data
 
 ## 7. Unit Testing and Debugging
-- Writing tests with frameworks like `Mocha`, `Jest`, or `Chai`
 - Mocking and stubbing with `Sinon.js`
 - Debugging using Node.js debugger or VS Code
-- API testing with tools like `Postman` or `Supertest`
 - Debugging with built-in Node.js tools or `debug` middleware
 
 ## 8. Performance Optimization
