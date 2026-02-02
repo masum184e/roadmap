@@ -34,12 +34,12 @@
 - [Understanding streams (`Readable`, `Writable`, `Duplex`, `Transform`)](#)
 - [Working with Buffers for binary data](#)
 
-## [8. Performance Optimization](#)
+## [7. Performance Optimization](#)
 - [Using clustering to utilize multi-core processors](#)
 - [Understanding and using the Event Loop effectively](#)
 - [Optimizing database queries and caching results](#)
 - [Profiling and monitoring Node.js applications](#)
 
-## [9. API Integration](#)
+## [8. API Integration](#)
 - [Handling CORS for React-Express communication](#)
 - [Proxying requests from React to Node.js in development](#)
