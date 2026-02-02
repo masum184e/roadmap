@@ -34,18 +34,11 @@
 - [Understanding streams (`Readable`, `Writable`, `Duplex`, `Transform`)](#)
 - [Working with Buffers for binary data](#)
 
-## [7. Unit Testing and Debugging](#)
-- Testing Tool:
-  - Sinon
-  - Mocha
-  - Chai
-- [Debugging using Node.js debugger or VS Code](#)
-
-## 8. Performance Optimization
-- Using clustering to utilize multi-core processors
-- Understanding and using the Event Loop effectively
-- Optimizing database queries and caching results
-- Profiling and monitoring Node.js applications
+## [8. Performance Optimization](#)
+- [Using clustering to utilize multi-core processors](#)
+- [Understanding and using the Event Loop effectively](#)
+- [Optimizing database queries and caching results](#)
+- [Profiling and monitoring Node.js applications](#)
 
 ## [9. API Integration](#)
 - [Handling CORS for React-Express communication](#)
