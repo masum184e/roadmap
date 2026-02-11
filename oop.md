@@ -1,11 +1,11 @@
 # Object-Oriented Programming (OOP) Topics to Learn
-## 1. Core OOP Principles (Deep Understanding)
+## [1. Core OOP Principles (Deep Understanding)](#)
 
-- Encapsulation (information hiding, invariants)
-- Abstraction (interfaces, contracts, boundaries)
-- Inheritance (when to use vs. composition)
-- Polymorphism (subtyping vs. parametric vs. ad-hoc)
-- SOLID principles (with real-world tradeoffs)
+- [Encapsulation (information hiding, invariants)](#)
+- [Abstraction (interfaces, contracts, boundaries)](#)
+- [Inheritance (when to use vs. composition)](#)
+- [Polymorphism (subtyping vs. parametric vs. ad-hoc)](#)
+- [SOLID principles (with real-world tradeoffs)](#)
 
 ## 2. Object Design & Modeling
 
