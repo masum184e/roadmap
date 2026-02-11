@@ -56,13 +56,13 @@ Know:
 - Dependency injection frameworks (Spring, Guice, .NET DI, etc.)
 - Avoiding service locator anti-pattern
 
-## 7. Object-Oriented Architecture
+## [7. Object-Oriented Architecture](#)
 
-- Layered architecture
-- Hexagonal (Ports & Adapters)
-- Clean Architecture
-- Onion architecture
-- How OOP fits into microservices & modular monoliths
+- [Layered architecture](#)
+- [Hexagonal (Ports & Adapters)](#)
+- [Clean Architecture](#)
+- [Onion architecture](#)
+- [How OOP fits into microservices & modular monoliths](#)
 
 ## 8. Error Handling & Robustness
 
